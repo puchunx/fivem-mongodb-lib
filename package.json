@@ -1,0 +1,24 @@
+{
+  "name": "mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsx build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.9.0",
+  "devDependencies": {
+    "@types/node": "^24.1.0",
+    "typescript": "^5.9.2"
+  },
+  "dependencies": {
+    "@citizenfx/server": "2.0.14862-1",
+    "esbuild": "^0.25.8",
+    "mongodb": "^6.18.0",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.20.3"
+  }
+}
